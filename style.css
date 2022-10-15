@@ -319,9 +319,8 @@ margin-left: 100px;
     display: flex;
 }
 .galarea img{
-    width: 566px;
-    height: 640px;
-    margin-left: 5%;
+    width: 690px;
+    /* margin-left: 10%; */
 }
 .futr{
     width:100% ;

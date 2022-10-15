@@ -159,7 +159,6 @@
     height: 75vh;
     margin-left: 50%;
     margin-top: 50px;
-    border: solid 1px red;
   }
   .nar_text img{
     width: 120%;
@@ -196,29 +195,32 @@
     height: 200vh;
     margin-left: 50%;
   }
+  .order_textt h2{
+    width: 200%;
+    font-size: 100px;
+    margin-left: 90%;
+  }
+  .order_textt p{
+    width: 200%;
+    font-size: 100px;
+    margin-left: 90%;
+    margin-top: 20%;
+  }
+  .galarea{
+    display:block;
+  } 
+  .galarea img{
+    width: 395%;
+    height: 395%;
+  }
+  
+  .futr{
+    background: white;
+  }
 
 }
-.order_textt h2{
-  width: 200%;
-  font-size: 100px;
-  margin-left: 90%;
-}
-.order_textt p{
-  width: 200%;
-  font-size: 100px;
-  margin-left: 90%;
-  margin-top: 20%;
-}
-.galarea {
-  display: block;
-}
-.galarea img{
-  width: 390%;
-  height: 390%;
-}
-.futr{
-  background: white;
-}
+
+
 @media screen and (max-width:200px){
     .item{
         display: none;
