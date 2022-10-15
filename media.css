@@ -1,0 +1,320 @@
+@media screen and (max-width:1069px){
+    .navbar{
+        display: none;
+    }
+    .box{
+        display: inline;
+
+    }
+}
+@media screen and (max-width:1062px){
+    .box{
+        width: 40%;
+    }
+
+}
+@media screen and (max-width:736px){
+.how{
+    width: 60%;
+    display: block;
+    margin-left: 35%;
+}
+}
+@media screen and (max-width:771px){
+    .gamburger img{
+        margin-left: 300px;
+    }
+}
+@media screen and (max-width:1496px){
+  .brow_btn button{
+    margin-right: 50px;
+    transform: translateX(-90px);
+  }
+
+}
+@media screen and (max-width:1165px){
+  .brow_btn button{
+    display: none;
+  }
+}
+
+@media screen and (max-width:852px){
+    .nav_top22 h1{
+        width: 50%;
+        font-size: 20px;
+    }
+    .nav_top22 p{
+        width: 60%;
+    }
+}
+@media screen and (max-width:729px){
+    .nav_top22 h1{
+        width: 50%;
+        font-size: 20px;
+    }
+    .nav_top22 p{
+        width: 80%;
+      font-size: 10px;
+        
+       
+    }  
+    .nav_top22 button{
+        width: 80px;
+        height: 4vh;
+        font-size: 10px;
+    } 
+}
+@media screen and (max-width:412px){
+  .collection{
+    display: none;
+  }
+  .nav_img img{
+    width: 200px;
+    height: 15vh;
+  }
+  .naimg{
+    width: 200px;
+    height: 15vh;
+    margin-left: 250%;
+  }
+  .nav_top1{
+    display: block;
+  }
+  .nav_text3 {
+    font-size: 95px;
+    width: 225%;
+    margin-left: 95%;
+  }
+  .nav_text3_pp{
+    width: 185%;
+    font-size: 45px;
+    margin-left: 93%;
+
+  }
+  .nav_top_text button{
+    width: 86%;
+    height: 15vh;
+    font-size: 45px;
+    margin-left: 135%;
+
+  }
+  .navvvv{
+    display: none;
+  }
+  .nav_top_img img{
+    width: 350%;
+    margin-top: 20%;
+    margin-left: 70%;
+
+    
+  }
+  .nav_top22{
+    display: none;
+  }
+  .gamburger img{
+    width: 290%;
+    margin-top: 20%;
+    margin-left: 30%;
+  }
+  .how_text h1{
+    width: 300%;
+    font-size: 100px;
+    margin-left: 250px;
+  }
+  .box{
+    display: flex;
+  }
+  .box img{
+    width: 950%;
+    height: 70vh;
+    margin-left: 130%;
+
+  }
+  .how_bb{
+    font-size: 45px;
+    display: none;
+  }
+  .box p {
+    display: none;
+
+  }
+  .brow_text h1{
+    font-size: 100px;
+    width: 300%;
+    margin-left: 90%;
+  }
+  .brow_text p{
+    font-size: 40px;
+    width: 200%;
+    margin-left: 90%;
+
+  }
+  .narxx{
+    display: block;
+  }
+  .narx{
+    width: 180%;
+    height: 35vh;
+    margin-left: 90%;
+    margin-top: 50px;
+    border: solid 1px red;
+  }
+  .nar_text img{
+    width: 120%;
+    height: 25vh;
+  }
+  .nar_text p{
+    font-size: 30px;
+    margin-left: 20%;
+  }
+  .bir{
+    width: 8%;
+    height: 4vh;
+    margin-left: 59%; 
+    transform: translateY(-19px);
+  }
+  .add_to{
+    width: 20%;
+    height: 4vh;
+    /* margin-top: 2.9%; */
+    margin-left: 69%;
+    transform: translateY(-55px);
+  }
+}
+@media screen and (max-width:200px){
+    .item{
+        display: none;
+        
+    }
+    .naimg{
+        transform: translateX(350px);
+    }
+    .nav_top1{
+        display: block;
+    }
+    .nav_text3{
+        width: 350%;
+        margin-left: 50%;
+    }
+    .nav_text3_pp{
+        width: 300%;
+        font-size: 30px;
+        margin-left: 50%;
+
+    }
+    .nav_top1 button{
+        margin-left: 150%;
+        width: 240px;
+        height: 100px;
+        font-size: 30px;
+    }
+    .nav_top1 img{
+        margin-left: 80%;
+    }
+  .nav_top2{
+    display: block;
+  }
+  .nav_top22 h1{
+    width: 350%;
+    margin-left: 70%;
+    font-size: 60px;
+  }
+  .nav_top22 p{
+    width: 300%;
+    margin-left: 120px;
+    font-size: 30px;
+  }
+  .nav_top22 button{
+    margin-left: 150%;
+    width: 240px;
+    height: 100px;
+    font-size: 30px
+  }
+  .gamburger img{
+    margin-top: 40%;
+    transform: translateX(-210px);
+  }
+  .how_text h1{
+    width: 300%;
+    margin-top: 40%;
+    margin-left:125%;
+  }
+  .box img{
+    width: 600px;
+  }
+  .how_bb{
+   
+    display: none;
+  }
+  .how_pp{
+    display: none;
+  }
+  .box p{
+    color: red;
+    display: none;
+
+  }
+  .brow_text h1{
+    width: 500%;
+    font-size: 80px;
+  }
+  .brow_text p{
+    width: 250%;
+    margin-left: 70%;
+    font-size: 30px;
+  }
+  .brow_btn{
+    margin: 40px;
+  }
+  .brow_btn button{
+    width: 300px;
+    height: 100px;
+    font-size: 40px;
+    margin-top: 25px;
+    color:#35B8BE ;
+    margin-left: 200px;
+  }
+  .narxx{
+    display: block;
+    margin-left: 150px;
+    margin-top: 25px;
+  }
+  .narxs{
+    display: block;
+    margin-left: 150px;
+    margin-top: 25px;
+  }
+  .order_text{
+    display: none;
+  }
+  .ord_img{
+    margin-top: 250%;
+  }
+  .order_textt{
+    display: none;
+  }
+  .ord_imgg{
+    margin-top: 250%;
+    margin: 0;
+    margin-left: 130px;
+  }
+  .galarea{
+    transform: translateY(-200px);
+    display: block;
+    margin-left: 50px;
+  }
+  .company{
+    /* display: none; */
+    margin: 0;
+    margin-top: 50px;
+    transform: translateX(-200px);
+
+  }
+  .futr_icon img{
+    margin-left: 185px;
+  }
+  .futr_icon p{
+    margin-left: 185px;
+  }
+ 
+}
