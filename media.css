@@ -71,6 +71,7 @@
   .nav_img img{
     width: 200px;
     height: 15vh;
+    display: none;
   }
   .naimg{
     width: 200px;
@@ -81,20 +82,20 @@
     display: block;
   }
   .nav_text3 {
-    font-size: 95px;
+    font-size: 150px;
     width: 225%;
     margin-left: 95%;
   }
   .nav_text3_pp{
     width: 185%;
-    font-size: 45px;
+    font-size: 65px;
     margin-left: 93%;
 
   }
   .nav_top_text button{
-    width: 86%;
-    height: 15vh;
-    font-size: 45px;
+    width: 106%;
+    height: 25vh;
+    font-size: 55px;
     margin-left: 135%;
 
   }
@@ -102,9 +103,9 @@
     display: none;
   }
   .nav_top_img img{
-    width: 350%;
+    width: 450%;
     margin-top: 20%;
-    margin-left: 70%;
+    /* margin-left: 25%; */
 
     
   }
@@ -112,22 +113,23 @@
     display: none;
   }
   .gamburger img{
-    width: 290%;
+    width: 350%;
     margin-top: 20%;
-    margin-left: 30%;
+    /* margin-left: 30%; */
+    transform: translateX(-10%);
   }
   .how_text h1{
-    width: 300%;
-    font-size: 100px;
-    margin-left: 250px;
+    width: 400%;
+    font-size: 150px;
+    margin-left: 300px;
   }
   .box{
     display: flex;
   }
   .box img{
-    width: 950%;
+    width: 1000%;
     height: 70vh;
-    margin-left: 130%;
+    margin-left: 250%;
 
   }
   .how_bb{
@@ -139,12 +141,12 @@
 
   }
   .brow_text h1{
-    font-size: 100px;
+    font-size: 150px;
     width: 300%;
     margin-left: 90%;
   }
   .brow_text p{
-    font-size: 40px;
+    font-size: 68px;
     width: 200%;
     margin-left: 90%;
 
@@ -153,33 +155,69 @@
     display: block;
   }
   .narx{
-    width: 180%;
-    height: 35vh;
-    margin-left: 90%;
+    width: 300%;
+    height: 75vh;
+    margin-left: 50%;
     margin-top: 50px;
     border: solid 1px red;
   }
   .nar_text img{
     width: 120%;
-    height: 25vh;
+    height: 55vh;
+    margin-top: 20%;
   }
   .nar_text p{
-    font-size: 30px;
+    font-size: 60px;
     margin-left: 20%;
   }
   .bir{
     width: 8%;
-    height: 4vh;
+    height: 10vh;
     margin-left: 59%; 
-    transform: translateY(-19px);
+    font-size: 50px;
+    transform: translateY(-109px);
   }
   .add_to{
     width: 20%;
-    height: 4vh;
+    height: 10vh;
     /* margin-top: 2.9%; */
     margin-left: 69%;
-    transform: translateY(-55px);
+    font-size: 50px;
+    transform: translateY(-200px);
   }
+  .narxs{
+    display: none;
+  }
+  .order_text {
+    display: none;
+  }
+  .ord_img img{
+    width: 350%;
+    height: 200vh;
+    margin-left: 50%;
+  }
+
+}
+.order_textt h2{
+  width: 200%;
+  font-size: 100px;
+  margin-left: 90%;
+}
+.order_textt p{
+  width: 200%;
+  font-size: 100px;
+  margin-left: 90%;
+  margin-top: 20%;
+}
+.galarea {
+  display: block;
+}
+.galarea img{
+  width: 390%;
+  height: 390%;
+}
+.futr{
+  background: white;
 }
 @media screen and (max-width:200px){
     .item{

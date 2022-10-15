@@ -255,9 +255,9 @@ margin-left: 100px;
     width: 529px;
     height: 110px;
     font-weight: 400;
-    font-size: 50px;
+    font-size: 10px;
     color: #35b8be;
-    margin-left: 742px;
+    /* margin-left: 742px; */
     margin-top: 257px;
 }
 .order_text p{
@@ -285,17 +285,17 @@ margin-left: 100px;
 }
 .ord_imgg{
     margin-left: 758px;
-    /* transform: translateY(-500px); */
+    transform: translateY(-500px);
 
 }
 
 .order_textt h2{
-    width: 529px;
-    height: 110px;
+    /* width: 529px;
+    height: 110px; */
     font-weight: 400;
-    font-size: 50px;
-    color: #35b8be;
-    margin-left: 120px;
+    font-size: 10px;
+    /* color: #35b8be;
+    margin-left: 120px; */
 }
 .order_textt p{
     width: 529px;
@@ -309,7 +309,7 @@ margin-left: 100px;
 .ord_btnn{
     width: 152px;
     height:50px ;
-    margin-left: 120    px;
+    margin-left: 120px;
     border: none;
     background: #35B8BE;
     color: #fff;
