@@ -210,12 +210,13 @@
     display:block;
   } 
   .galarea img{
-    width: 375%;
-    height: 375%;
+    width: 399%;
+    height: 399%;
   }
   
   .futr{
     background: white;
+    width: 100%;
   }
 
 }
@@ -339,9 +340,16 @@
     margin-left: 130px;
   }
   .galarea{
+    width: 405%;
+    height: 405%;
     transform: translateY(-200px);
     display: block;
     margin-left: 50px;
+  }
+  .galarea img{
+    width: 405%;
+    height: 405%;
+    margin-left: 20%;
   }
   .company{
     /* display: none; */
@@ -350,11 +358,17 @@
     transform: translateX(-200px);
 
   }
+  .futr{
+    width: 90%;
+    border: solid 1px red;
+
+  }
   .futr_icon img{
     margin-left: 185px;
   }
   .futr_icon p{
     margin-left: 185px;
   }
+
  
 }
